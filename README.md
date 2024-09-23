@@ -7,4 +7,4 @@
 ## Этап 3
     Добавление файла user_input.py в ветку проекта branch_func.
 ## Этап 4
-    Слияние веток main и branch_func методом merge.
+    Слияние веток main и branch_func методом Create Pull request.
